@@ -24,7 +24,7 @@ export const TierContext = React.createContext<TierState>({} as TierState);
 const App = () => {
   const [style, setStyle] = useState(() =>{
     const storedRatio = localStorage.getItem("ratio");
-    return storedRatio ? storedRatio : "preserve";
+    return storedRatio ? storedRatio : "fit";
   });
   const [tiers, setTiers] = useState<Tier[]>(() => {
     const storedTiers = localStorage.getItem("tiers");
