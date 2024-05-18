@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/dynamic-tierlist-maker/static/css/main.fb396914.css",
-    "main.js": "/dynamic-tierlist-maker/static/js/main.71d9a126.js",
-    "static/js/787.44beffb3.chunk.js": "/dynamic-tierlist-maker/static/js/787.44beffb3.chunk.js",
-    "index.html": "/dynamic-tierlist-maker/index.html",
-    "main.fb396914.css.map": "/dynamic-tierlist-maker/static/css/main.fb396914.css.map",
-    "main.71d9a126.js.map": "/dynamic-tierlist-maker/static/js/main.71d9a126.js.map",
-    "787.44beffb3.chunk.js.map": "/dynamic-tierlist-maker/static/js/787.44beffb3.chunk.js.map"
+    "main.css": "/dynamic-tier-list/static/css/main.fb396914.css",
+    "main.js": "/dynamic-tier-list/static/js/main.ff42fabf.js",
+    "static/js/787.44beffb3.chunk.js": "/dynamic-tier-list/static/js/787.44beffb3.chunk.js",
+    "index.html": "/dynamic-tier-list/index.html",
+    "main.fb396914.css.map": "/dynamic-tier-list/static/css/main.fb396914.css.map",
+    "main.ff42fabf.js.map": "/dynamic-tier-list/static/js/main.ff42fabf.js.map",
+    "787.44beffb3.chunk.js.map": "/dynamic-tier-list/static/js/787.44beffb3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fb396914.css",
-    "static/js/main.71d9a126.js"
+    "static/js/main.ff42fabf.js"
   ]
 }
